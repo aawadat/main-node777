@@ -1,0 +1,19 @@
+{
+  "name": "main-node777",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "confirmation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aawadat/main-node777"
+  },
+  "bugs": {
+    "url": "https://github.com/aawadat/main-node777/issues"
+  },
+  "homepage": "https://github.com/aawadat/main-node777#readme"
+}
